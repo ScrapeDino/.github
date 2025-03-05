@@ -26,8 +26,8 @@
 - 🔥 **Cloudflare & Anti-Bot Bypass:** Easily bypass bot protections and access data without restrictions.
 - 💽 **Unlimited Bandwidth:** No limits on the number of gigabytes transferred.
 - 🔁 **Auto IP Rotation:** Each of your API requests automatically uses a unique IP address.
-- 📶 **High Call Limits:** Our uptime is 99.99%, supporting up to 50 requests per second. This means you can quickly scrape large volumes of pages without long waits.
-- 💸 **Lowest Price:** Our ready-made package includes 8,250 URL requests, with each request costing just $0.00006 - the lowest price on the market.
+- 📶 **High Call Limits:** Our uptime is 99.99%, supporting up to 50 requests per second.
+- 💸 **Lowest Price:** Ready-made package includes 8,250 URL requests, each request costing just $0.0006 - the lowest price on the market.
 - 🛒 **PAY-AS-YOU-GO:** After using the package, there’s no need to buy a new one—simply pay per request for any additional usage.
 
 <h4>Start for FREE 💎 – Get 300-free scrapes! No credit card required! Just sign up and test it out.</h4>
