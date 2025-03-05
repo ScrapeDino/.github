@@ -3,7 +3,7 @@
 <picture><img alt="scrapedino" src="images/main.png"></picture>
 
 <h4 align="center">
-<b><a href="https://scrapedino.com/?utm_source=github&utm_medium=offpage">Website</a></b>
+<a href="https://scrapedino.com/?utm_source=github&utm_medium=offpage">Website</a>
 •
 <a href="https://rapidapi.com/codeblessed-codeblessed/api/scrapedino/pricing">Pricing</a>
 •
@@ -19,7 +19,7 @@
     <b>By default:</b> residential proxies, real user fingerprint emulation, no domain restrictions, no additional bandwidth payments</p>
 </div>
 
-## Every scrape request includes by default:
+## 🤯 Every scrape request includes by default:
 - ⚙️ **Fast JS Rendering:** Instantly render JavaScript for quick data access.
 - 🌎 **Global Residential Proxies:** We use premium residential proxies in over 30+ countries by default.
 - 🧑‍💻 **Real User Fingerprint:** We emulate a real user's headful browser, including cookies and a TLS fingerprint.
@@ -32,6 +32,19 @@
 
 <h4>Start for FREE 💎 – Get 300-free scrapes! No credit card required! Just sign up and test it out.</h4>
 
-## Join Us
+<br>
 
+## 📝 Comparison: ScrapeDino vs Others
+
+| Feature | ScrapeDino 🦖 | Other Providers ❌ |
+|---------|-------------|----------------|
+| 🛠️ JS Rendering Included | ✅ | ❌ Extra charge |
+| 🌏 Premium Residential Proxies | ✅ | ❌ Paid separately |
+| 🛡️ Cloudflare & Anti-Bot Bypass | ✅ | ❌ Requires manual setup |
+| 📀 Unlimited Bandwidth | ✅ | ❌ Extra fees per GB |
+| 🏆 Best Price | ✅ $0.0006/req | ❌ More expensive |
+
+<br>
+
+## Join Us
 - [Twitter](https://x.com/ScrapeDino)
