@@ -47,4 +47,7 @@
 <br>
 
 ## Join Us
+- [Website](https://scrapedino.com/?utm_source=github&utm_medium=offpage)
+- [RapidApi](https://rapidapi.com/codeblessed-codeblessed/api/scrapedino)
 - [Twitter](https://x.com/ScrapeDino)
+- [Crunchbase](https://www.crunchbase.com/organization/scrapedino)
